@@ -106,6 +106,8 @@ Github extends the functionality of Markdown tables to provide more alignment an
 
 ![Photo of the pipe character on a keyboard](assets/pipe-char.jpg)
 
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
+
 ## External References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
