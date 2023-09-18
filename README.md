@@ -57,10 +57,10 @@ puts person1.introduction
 puts person2.introduction
 ```
 
-- Make note where the backtick button is located.
+- Make note where the backtick keyboard key is located.
 - It should appear above the tab key,
 - but it may vary based on your keyboard layout.
-<img width="200" src="https://github.com/AdamLisicki/github-docs-example/assets/96197101/767e1d6e-251b-4565-9cec-5409170475a2" />
+<img width="200" src="assets/backtick-key.jpg" />
 
 Good Cloud Engineers use codeblock for both Code and Errors that appear in the console.
 
@@ -73,7 +73,7 @@ RuntimeError: This is a custom error message
 
 > Here is na example of using a codeblock for an error that appears in bash.
 
-## Step 3 - Use Github Flavoured Markdown Task Lists
+## Step 2 - Use Github Flavoured Markdown Task Lists
 
 Github extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#external-references)
 
@@ -81,7 +81,7 @@ Github extends Markdown to have a list where you can check off items. [<sup>[1]<
 - [ ] Finish Step 2
 - [x] Finish Step 3
 
-## Step 4 - Use Emojis (Optional)
+## Step 3 - Use Emojis (Optional)
 
 GitHub Flavored Markdown (GFM) supports emoji shortcodes. Here are some examples:
 | Name | Shortode | Emoji |
@@ -89,7 +89,7 @@ GitHub Flavored Markdown (GFM) supports emoji shortcodes. Here are some examples
 | Cloud | `:cloud:` | ☁️ |
 | Cloud with lighting | `:cloud_with_lighting:` | 🌩️ |
 
-Step 5 - how to create a table
+Step 4 - how to create a table
 
 You can use the following markdown format to create tables:
 ```md
@@ -99,6 +99,12 @@ You can use the following markdown format to create tables:
 | Cloud with lighting | `:cloud_with_lighting:` | 🌩️ |
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
+
+- Make note of where the pipe keyboard key is located.
+- It should appear above return or enter key
+- but it may vary based on your keyboard layout.
+
+![Photo of the pipe character on a keyboard](assets/pipe-char.jpg)
 
 ## External References
 
